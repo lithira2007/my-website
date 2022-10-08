@@ -3,17 +3,17 @@ body {
 	margin: 0;
 	text-align: left;
 	width: 100%;
-                 background-color: black;
-                 color:maroon;
+                 background-color: rgb(220, 237, 121);
+                 color:rgb(3, 155, 140);
 }
 
 h1 {
 text-align: center;
    font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: gold;
+  color: rgb(141, 18, 168);
 }
-
+ss
 h2 {
 	font-size: 56px;
 }
@@ -29,3 +29,4 @@ h2 {
 
 p {
   font-size: 2rem;
+}
