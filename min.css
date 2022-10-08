@@ -1,26 +1,26 @@
 body {
-	height: 100%;
+	height: 120%;
 	margin: 0;
 	text-align: left;
-	width: 100%;
-                 background-color: black;
-                 color:maroon;
+	width: 120%;
+                 background-color: rgb(226, 144, 29);
+                 
 }
 
 h1 {
 text-align: center;
-   font-size: 32px;
+   font-size: 38px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: gold;
+  color: white;
 }
 
 h2 {
-	font-size: 56px;
+	font-size: 57px;
 }
 
 
 .hero {
-	padding: 250px 0;
+	padding: 278px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
 
@@ -28,4 +28,6 @@ h2 {
 
 
 p {
-  font-size: 2rem;
+  font-size: 28px;
+  font-family: sans-serif;
+}
